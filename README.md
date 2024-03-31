@@ -40,3 +40,4 @@ This Flutter-based Instagram clone app replicates the core functionalities of th
 
 ## Contributing
 Contributions are welcome! Please feel free to open issues for bug fixes or feature requests. Pull requests are also encouraged.
+# Chaupal
